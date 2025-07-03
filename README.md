@@ -3,6 +3,7 @@
 gitclone : https://github.com/yashwant2001/docker-python-hello.git
 cd docker-python-hello
 ```
+```
 . Dockerised steps need to avoid some commands due to wrong command given.
 1  sudo yum update -y 
     2  docker --version
