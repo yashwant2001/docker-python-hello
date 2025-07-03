@@ -1,5 +1,6 @@
 # docker-python-hello
 
+```
 . Dockerised steps need to avoid some commands due to wrong command given.
 1  sudo yum update -y 
     2  docker --version
@@ -81,3 +82,5 @@
    78  cat dockerfile
    79  cat helloworld.py
    80  history
+
+```
